@@ -19,6 +19,5 @@ Resources
 * what's a creel
 * https://wiki.osdev.org/
 * include os
-* https://github.com/boctavian96/OktonOS  a more recent fork
 
 
