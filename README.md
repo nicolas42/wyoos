@@ -16,8 +16,12 @@ Improvements
 
 Resources
 --------------------------------------------------------------
+
+* http://wyoos.org
+* http://mikeos.sourceforge.net/write-your-own-os.html
+* http://wiki.osdev.org
+* http://www.linuxfromscratch.org/
+* https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X
+* https://os.phil-opp.com/
 * what's a creel
-* https://wiki.osdev.org/
 * include os
-
-
