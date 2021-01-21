@@ -23,5 +23,6 @@ Resources
 * http://www.linuxfromscratch.org/
 * https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X
 * https://os.phil-opp.com/
-* what's a creel
-* include os
+* https://www.youtube.com/user/WhatsACreel x64 programming tutorials
+* https://github.com/includeos/IncludeOS  minimal unikernel operating system for C++ services
+
