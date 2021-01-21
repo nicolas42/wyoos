@@ -10,15 +10,15 @@ building on multipass on macos.  Multipass (https://multipass.run/) is a virtual
 
 Improvements
 --------------------------------------------------------------
-better graphics.  currently there's a terrible VGA thing which is very slow.
-x64 instructions
+* better graphics.  currently there's a terrible VGA thing which is very slow.
+* x64 instructions
 
 
 Resources
 --------------------------------------------------------------
-what's a creel
-https://wiki.osdev.org/
-include os
-https://github.com/boctavian96/OktonOS  a more recent fork
+* what's a creel
+* https://wiki.osdev.org/
+* include os
+* https://github.com/boctavian96/OktonOS  a more recent fork
 
 
